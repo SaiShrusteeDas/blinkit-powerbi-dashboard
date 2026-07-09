@@ -1,5 +1,5 @@
 # BlinkIT Grocery Sales Analysis Dashboard
-
+blinkit dashboard.png
 ## Project Overview
 This Power BI dashboard analyzes BlinkIT grocery sales performance.
 
